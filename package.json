@@ -1,0 +1,25 @@
+{
+  "name": "excel-vanilla",
+  "version": "1.0.0",
+  "description": "Excel vanilla js",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrychenkodev/excel-vanilla.git"
+  },
+  "author": "Oleksii Petrychenko <panleshapan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrychenkodev/excel-vanilla/issues"
+  },
+  "homepage": "https://github.com/petrychenkodev/excel-vanilla#readme",
+  "devDependencies": {
+    "webpack": "^5.99.5",
+    "webpack-cli": "^6.0.1"
+  }
+}
