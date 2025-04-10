@@ -5,12 +5,12 @@ No frameworks — just clean, manual setup using **Webpack 5**, **Babel**, and *
 
 ## Features
 
-✅ Custom Webpack 5 configuration
-✅ SCSS support with hot reload
-✅ Modern JavaScript via Babel (`@babel/preset-env`)
-✅ Environment-specific builds (development & production)
-✅ Hash-based filenames for cache busting
-✅ Manual DOM manipulation (no libraries)
+- Custom Webpack 5 configuration
+- SCSS support with hot reload
+- Modern JavaScript via Babel (`@babel/preset-env`)
+- Environment-specific builds (development & production)
+- Hash-based filenames for cache busting
+- Manual DOM manipulation (no libraries)
 
 Tech Stack
 	•	JavaScript (ES6+)
